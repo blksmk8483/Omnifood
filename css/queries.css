@@ -52,14 +52,18 @@ Instead, 1rem = 1em = 16px */
   .testimonials-container {
     padding: 9.6rem 3.2rem;
   }
+
+  .section-pricing {
+    padding: 9.6rem 2.4rem;
+  }
 }
 
-/* ------   BELOW 944px (Tablets)   ------ */
-/* 944/16=59  */
+/* ------   BELOW 963px (Tablets)   ------ */
+/* 963/16=60.2ish  */
 
-@media (max-width: 59rem) {
+@media (max-width: 60.2rem) {
   html {
-    /* 8px / 16px = 0.5 =  */
+    /* 8px / 16px = 0.s5 =  */
     font-size: 50%;
   }
 
@@ -101,6 +105,10 @@ Instead, 1rem = 1em = 16px */
 
   .gallery {
     grid-template-columns: repeat(6, 1fr);
+  }
+
+  .section-pricing {
+    padding: 9.6rem 2.4rem;
   }
 
   .cta {
