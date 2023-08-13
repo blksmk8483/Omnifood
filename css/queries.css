@@ -289,4 +289,44 @@ Instead, 1rem = 1em = 16px */
   .cta-text-box {
     padding: 3.2rem;
   }
+
+  .heading-primary {
+    font-size: 3.6rem;
+  }
+
+  .heading-secondary {
+    font-size: 3rem;
+  }
+
+  .container--cta {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0;
+  }
+
+  .cta {
+    border-radius: 0%;
+  }
+
+  .section-feature {
+    padding: 4.8rem 1.6rem 0;
+  }
+
+  .container--section-feature {
+    max-width: 100%;
+    padding: 0;
+  }
+
+  .testimonials-container {
+    padding: 9.6rem 3.2rem 6.4rem 3.2rem;
+  }
+
+  .feature {
+    display: grid;
+    justify-items: center;
+  }
+
+  .feature-text {
+    text-align: center;
+  }
 }
