@@ -11,6 +11,16 @@ btnNavEl.addEventListener("click", () => {
   headerEl.classList.toggle("nav-open");
 });
 
+// To toggle my mobile menu button on and off...
+const allLinks = document.querySelectorAll("a:link");
+
+allLinks.forEach((link) => {
+  link.addEventListener("click", () => {
+    if (link.classList.contains("main-nav-link"))
+      headerEl.classList.toggle("nav-open");
+  });
+});
+
 ///////////////////////////////////////////////////////////
 // Fixing flexbox gap property missing in some Safari versions
 function checkFlexGap() {
