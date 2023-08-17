@@ -2,9 +2,11 @@
 
 ## Description
 
-I build this project in conjunction with the online Udemy course
+I built this project in conjunction with the online Udemy course
 
-`BUILD RESPONSIVE REAL-WORLD WEBSITES WITH HTML AND CSS`
+`BUILD RESPONSIVE REAL-WORLD WEBSITES WITH HTML AND CSS`.
+
+Applying modern HTML, CSS and web design building a responsive and modern website.
 
 ## Table of Contents
 
