@@ -26,7 +26,7 @@ If you have any additional questions, feel free to reach out to me.
 
 - [LinkedIn](https://www.linkedin.com/in/brandon-knight-21940a206/)
 - [Github](https://github.com/blksmk8483)
-- [Email](knightbrandon1984@gmail.com)
+- [Email](brandonknightwork@gmail.com)
 
 ## Credit
 
